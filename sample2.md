@@ -1,1 +1,8 @@
 conflict
+
+
+
+
+
+kocchidayo-----------------
+>>>>>>> hoge
